@@ -13,4 +13,4 @@ Mafia as described by [wikipedia](<https://en.wikipedia.org/wiki/Mafia_(party_ga
 - [x] Create a slightly nicer README (wow, so meta).
 - [ ] Finish contributors list in package.json
 
-Testing a new branch
+Testing a new branch - hopefully it works this time.
